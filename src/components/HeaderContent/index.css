@@ -1,9 +1,0 @@
-.headerFlexBox{
-    display: flex;
-    justify-content: space-between;
-}
-
-.leftBox{
-    display: flex;
-    align-items: center;
-}
